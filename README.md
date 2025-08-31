@@ -26,8 +26,6 @@ Festival Log is a Streamlit web application for collecting, browsing, and export
 - `db.py` — Database functions (SQLite)
 - `utils.py` — Utility functions (AI, file handling)
 - `requirements.txt` — Python dependencies
-- `uploads/` — Uploaded media files
-- `exports/` — Exported datasets
 
 ## Usage
 - Open the app in your browser after running the Streamlit command.
@@ -40,3 +38,4 @@ Festival Log is a Streamlit web application for collecting, browsing, and export
 
 ## License
 MIT License
+
